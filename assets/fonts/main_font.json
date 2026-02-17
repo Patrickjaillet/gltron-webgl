@@ -1,0 +1,14 @@
+{
+    "glyphs": {},
+    "cssFontWeight": "normal",
+    "ascender": 1000,
+    "underlinePosition": -100,
+    "cssFontStyle": "normal",
+    "boundingBox": { "yMin": -200, "xMin": -20, "yMax": 1000, "xMax": 1000 },
+    "resolution": 1000,
+    "original_font_information": {},
+    "descender": -200,
+    "familyName": "TronFont",
+    "lineHeight": 1200,
+    "underlineThickness": 50
+}
